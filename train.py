@@ -25,7 +25,7 @@ from dataset.dataset import Dataset
 # ---------------------------- #
 # Configuration / Hyperparams  #
 # ---------------------------- #
-NUM_CLASSES = 1_000           # Tiny-ImageNet has 1 000 label IDs
+NUM_CLASSES = 200             # Tiny-ImageNet has 200 label IDs
 IMG_SIZE    = 64              # Images are 64 × 64 pixels
 BATCH_SIZE  = 128
 EPOCHS      = 200

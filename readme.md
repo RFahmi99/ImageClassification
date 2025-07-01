@@ -126,7 +126,7 @@ Training automatically resumes if a checkpoint exists in `models/weights/model.p
 from models.cnn import CNN
 import torch, albumentations as A
 
-model = CNN(num_classes=1000)
+model = CNN(num_classes=200)
 model.load_state_dict(torch.load('models/weights/model.pth')['model_state_dict'])
 model.eval()
 
