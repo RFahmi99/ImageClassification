@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Accuracy](https://img.shields.io/badge/Top-1%20Accuracy-65%25-brightgreen)](#-performance)
+[![Accuracy](https://img.shields.io/badge/Top--1%20Accuracy-65%25-brightgreen)](#-performance)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 </div>
